@@ -6,6 +6,7 @@ The only reason having this repo is for my own convenience. Credits to all those
 * dmenu-caseinsensitive-5.0.diff
 * dmenu-center-4.8.diff
 * dmenu-highpriority-4.9.diff
+* dmenu-numbers-4.9.diff
 ### Grid
 * dmenu-grid-4.9.diff
 * dmenu-gridnav-5.0.diff
