@@ -8,6 +8,7 @@ The only reason having this repo is for my own convenience. Credits to all those
 * dmenu-highpriority-4.9.diff
 * dmenu-numbers-4.9.diff
 * dmenu-rejectnomatch-4.7.diff
+* dmenu-scroll-20180607-a314412.diff
 ### Grid
 * dmenu-grid-4.9.diff
 * dmenu-gridnav-5.0.diff
