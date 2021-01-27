@@ -4,6 +4,7 @@ dmenu \- dynamic menu
 .SH SYNOPSIS
 .B dmenu
 .RB [ \-bfsv ]
+.RB [ \-bfsrv ]
 .RB [ \-g
 .IR columns ]
 .RB [ \-l
@@ -59,6 +60,9 @@ dmenu matches menu items case sensitively.
 .TP
 .BI \-g " columns"
 dmenu lists items in a grid with the given number of columns.
+.TP
+.B \-r
+dmenu will reject any input which would result in no matching option left.
 .TP
 .BI \-l " lines"
 dmenu lists items in a grid with the given number of lines.
